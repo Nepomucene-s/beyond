@@ -4,7 +4,7 @@
 # Janvier 2020
 
 
-import pygame, sys, math
+import pygame, sys, math, numpy
 
 
 pygame.init()
